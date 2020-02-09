@@ -2,6 +2,6 @@ Team RandomError
 
 Team Members:
 
-Ashlesha Shinde,
-Sairaj Gaonkar,
-Bhakti Narvekar
+1.Ashlesha Shinde<br>
+2.Sairaj Gaonkar<br>
+3.Bhakti Narvekar

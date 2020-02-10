@@ -1,8 +1,8 @@
 # Team: Random Error
 
 ## Team Members:
-1.Ashlesha Shinde.
-2.Sairaj Gaonkar.
+1.Ashlesha Shinde.<br>
+2.Sairaj Gaonkar.<br>
 3.Bhakti Narvekar.
 
 # Documentation

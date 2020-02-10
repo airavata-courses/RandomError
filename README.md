@@ -67,3 +67,36 @@ This will start the service on port 8081.
 ```
 
 ```
+## 3. SessionManagement Service:
+This micro-service is for storing the sessions and retrieving them.
+#### Language used: 
+NodeJS
+### Pre-requisites
+```
+Any suitable IDE (preferably Visual Studio Code) to run NodeJS files.
+MongoDB Atlas is used as Database.
+```
+
+### Install required libraries
+```
+Open Command Prompt/Terminal
+cd /RandomError/sessionmanagement-service
+Install all the below mentioned packages
+
+  npm install --save mongoose
+	npm install --save express
+	npm install --save mongodb
+	npm install --save body-parser
+	npm install --save amqplib
+```
+
+### Run the code
+```
+Open Terminal in IDE or open Command Prompt/Terminal
+cd /RandomError/sessionmanagement-service
+node savetodb.js
+
+Open Terminal in IDE or open Command Prompt/Terminal
+cd /RandomError/sessionmanagement-service
+node sendtoqueue.js
+```

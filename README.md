@@ -83,11 +83,11 @@ Open Command Prompt/Terminal
 cd /RandomError/sessionmanagement-service
 Install all the below mentioned packages
 
-  npm install --save mongoose
-	npm install --save express
-	npm install --save mongodb
-	npm install --save body-parser
-	npm install --save amqplib
+npm install --save mongoose
+npm install --save express
+npm install --save mongodb
+npm install --save body-parser
+npm install --save amqplib
 ```
 
 ### Run the code

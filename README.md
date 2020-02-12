@@ -33,16 +33,6 @@ run the class 'DemoApplication.java' (src/main/java/com/example/demo/DemoApplica
 This will start the service on port 8080.
 After starting all the below services visit: http://localhost:8080/homeLogin
 ```
-
-### Install required libraries
-```
-
-```
-
-### Run the code
-```
-
-```
 ## 2.UserManagement Service:
 This micro-service is for registration and login activities.
 #### Language used: 
@@ -58,15 +48,6 @@ run the class 'Receiver.java' (com/randomerror/usermanagement/receive/main/Recei
 This will start the service on port 8081.
 ```
 
-### Install required libraries
-```
-
-```
-
-### Run the code
-```
-
-```
 ## 3. SessionManagement Service:
 This micro-service is for storing the sessions and retrieving them.
 #### Language used: 

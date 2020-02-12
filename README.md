@@ -61,7 +61,7 @@ MongoDB Atlas is used as Database.
 ### Install required libraries
 ```
 Open Command Prompt/Terminal
-cd /RandomError/sessionmanagement-service
+Move to the directory sessionmanagement-service inside RandomError folder.
 Install all the below mentioned packages
 
 npm install --save mongoose
@@ -74,11 +74,11 @@ npm install --save amqplib
 ### Run the code
 ```
 Open Terminal in IDE or open Command Prompt/Terminal
-cd /RandomError/sessionmanagement-service
+Move to the directory sessionmanagement-service inside RandomError folder.
 node savetodb.js
 
 Open Terminal in IDE or open Command Prompt/Terminal
-cd /RandomError/sessionmanagement-service
+Move to the directory sessionmanagement-service inside RandomError folder.
 node sendtoqueue.js
 ```
 

@@ -100,3 +100,34 @@ Open Terminal in IDE or open Command Prompt/Terminal
 cd /RandomError/sessionmanagement-service
 node sendtoqueue.js
 ```
+
+## 3. Data Retrieval Service and Data Analysis Service:
+
+### Language Used:
+Python
+
+### Install required libraries
+### Windows
+```
+1. Install Anaconda
+2. Open Anaconda prompt and go to the path /RandomError
+3. Use the link -> https://github.com/ARM-DOE/pyart/wiki/Simple-Install-of-Py-ART-using-Anaconda
+	Use commands mentioned in the above link to install pyart
+4. pip install pika
+5. pip install nexradaws
+
+```
+
+### MacOSX / Linux:
+```
+Open the terminal and run the following commands
+1. pip install pika
+2. pip install nexradaws
+3. pip install arm-pyart
+```
+### Run
+```
+1. Go the respective folder Open a new Anaconda prompt or the terminal and type "python data_modeling.py"
+2. Open a new Anaconda prompt or the terminal and type "python data_retrieval.py"
+```
+

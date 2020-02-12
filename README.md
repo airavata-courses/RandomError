@@ -27,7 +27,7 @@ Java
 Any suitable IDE (preferably IntelliJ, Eclipse) to run Java Spring project with Maven Plugin.
 RabbitMQ : Please follow the link https://www.rabbitmq.com/download.html
 ```
-### Open demo folder in IDE.
+### Run the code: Open demo folder in IDE.
 ```
 run the class 'DemoApplication.java' (src/main/java/com/example/demo/DemoApplication.java)
 This will start the service on port 8080.
@@ -42,7 +42,7 @@ Java
 Any suitable IDE (preferably IntelliJ, Eclipse) to run Java Spring project with Maven Plugin.
 MongoDB Atlas is used as Database.
 ```
-### Open UserManagementBacked Folder in IDE.
+### Run the code: Open UserManagementBacked Folder in IDE.
 ```
 run the class 'Receiver.java' (com/randomerror/usermanagement/receive/main/Receiver.java)
 This will start the service on port 8081.

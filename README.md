@@ -112,3 +112,6 @@ Open the terminal and run the following commands
 2. Open a new Anaconda prompt or the terminal and type "python data_retrieval.py"
 ```
 
+### Result
+The final result will be saved in plots folder which is in the root directory of the repository.
+

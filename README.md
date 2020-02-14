@@ -105,6 +105,7 @@ Open the terminal and run the following commands
 1. pip install pika
 2. pip install nexradaws
 3. pip install arm-pyart
+4. pip install netCDF4
 ```
 ### Run
 ```

@@ -119,7 +119,7 @@ Open the terminal and run the following commands
 The final result will be saved in plots folder which is in the root directory of the repository.
 
 
-## Assignment No. 1:
+## Assignment No. 2:
 
 ### Steps:
 1. Switch to branch -> test

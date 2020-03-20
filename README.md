@@ -5,6 +5,8 @@
 2.Sairaj Gaonkar.<br>
 3.Bhakti Narvekar.
 
+## Assignment No. 1:
+
 # Documentation
 This document provides the instructions to run the application on your machine.
 
@@ -115,4 +117,19 @@ Open the terminal and run the following commands
 
 ### Result
 The final result will be saved in plots folder which is in the root directory of the repository.
+
+
+## Assignment No. 1:
+
+### Steps:
+1. Switch to branch -> test
+2. Make a commit on 'test' branch which will automatically trigger the build on Jenkins.
+3. You can check the build progress on -> http://149.165.170.174:8080/ (username:- randomerror, password:-randomerror)
+4. After the build is complete, run the UI on -> http://149.165.170.111:30127/
+5. To ssh into Kubernetes master use the key 'RandomError-api-key' that is present on branch 'test' and run the following command:-
+	- ssh -i RandomError-api-key ubuntu@149.165.170.111
+6. Run the following commands on the Kubernetes master (149.165.170.111) to view plots:-
+	- kubectl exec -it data-modeling-pod-name -- /bin/bash
+	- cd plots
+	- ls
 
